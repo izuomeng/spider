@@ -13,6 +13,7 @@
         }
     }
     IsPC();
+    var do_sth = 'done';
 </script>
 <?php
     for($i=1;$i<=10;$i++)
