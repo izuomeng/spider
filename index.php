@@ -15,7 +15,9 @@
     IsPC();
 </script>
 <script type="text/javascript">
-    var drop;
+    var drop = function (argument) {
+        /* body... */
+    }
 </script>
 add feature named B
 <?php
