@@ -14,6 +14,7 @@
     }
     IsPC();
 </script>
+add feature named B
 <?php
 /**
  * Created by PhpStorm.
