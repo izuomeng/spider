@@ -14,6 +14,9 @@
     }
     IsPC();
     var do_sth = 'done';
+    function oldNews (argument) {
+        // body... 
+    }
 </script>
 <?php
     for($i=1;$i<=10;$i++)
