@@ -48,3 +48,4 @@ onclick="document.getElementById('_form<?php echo $i?>').submit();">
     }
 
 </script>
+add new feature named A
